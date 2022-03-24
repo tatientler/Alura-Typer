@@ -1,0 +1,25 @@
+.borda-verde{
+    border: 5px solid green;
+}
+
+.borda-vermelha{
+    border: 5px solid red;
+}
+
+.campo-desativado{
+    background-color: lightgray;
+}
+
+.campo-digitacao{
+    font-size: 20px;
+    height: 130px;
+}
+
+.frase{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.icones{
+    vertical-align: middle;
+}
